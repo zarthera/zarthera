@@ -1,4 +1,4 @@
 - Hi, I’m Zarthera
-- Currently learning C++ as a beginner #gamedevmademedoit
+- Currently working in Godot
  ლ,ᔑ•/\•ᔐ.ლ
  
